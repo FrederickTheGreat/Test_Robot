@@ -11,6 +11,9 @@ import edu.wpi.first.wpilibj.IterativeRobot;
  * directory.
  */
 public class Robot extends IterativeRobot {
+	
+	String string = "String";
+	
     /**
      * This function is run when the robot is first started up and should be
      * used for any initialization code.
