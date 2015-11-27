@@ -12,7 +12,7 @@ import edu.wpi.first.wpilibj.IterativeRobot;
  */
 public class Robot extends IterativeRobot {
 	
-	String string = "String";
+	String string = "NEWSTRINGOMGOMGOMG";
 	int farfar37 = 42;
 	//This is a comment
 	//Comment from eclipse!
