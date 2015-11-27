@@ -15,6 +15,7 @@ public class Robot extends IterativeRobot {
 	String string = "String";
 	int farfar37 = 42;
 	//This is a comment
+	//This is a second comment
 	
     /**
      * This function is run when the robot is first started up and should be
