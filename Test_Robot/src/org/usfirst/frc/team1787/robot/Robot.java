@@ -16,6 +16,7 @@ public class Robot extends IterativeRobot {
 	int farfar37 = 42;
 	//This is a comment
 	//Comment from eclipse!
+	//This is a second comment
 	
     /**
      * This function is run when the robot is first started up and should be
