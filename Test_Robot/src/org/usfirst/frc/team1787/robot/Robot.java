@@ -13,6 +13,7 @@ import edu.wpi.first.wpilibj.IterativeRobot;
 public class Robot extends IterativeRobot {
 	
 	String string = "String";
+	int farfar37 = 42;
 	
     /**
      * This function is run when the robot is first started up and should be
