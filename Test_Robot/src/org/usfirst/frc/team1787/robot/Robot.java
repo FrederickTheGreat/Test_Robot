@@ -18,6 +18,7 @@ public class Robot extends IterativeRobot {
 	//This is a comment
 	//Comment from eclipse!
 	//This is a second comment
+	//This is a third comment
 	
     /**
      * This function is run when the robot is first started up and should be
